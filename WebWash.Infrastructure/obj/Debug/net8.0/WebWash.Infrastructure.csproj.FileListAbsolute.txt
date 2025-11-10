@@ -1,0 +1,16 @@
+D:\PROJETO_LAVANDERIA\WebWash\WebWash.Infrastructure\bin\Debug\net8.0\WebWash.Infrastructure.deps.json
+D:\PROJETO_LAVANDERIA\WebWash\WebWash.Infrastructure\bin\Debug\net8.0\WebWash.Infrastructure.dll
+D:\PROJETO_LAVANDERIA\WebWash\WebWash.Infrastructure\bin\Debug\net8.0\WebWash.Infrastructure.pdb
+D:\PROJETO_LAVANDERIA\WebWash\WebWash.Infrastructure\bin\Debug\net8.0\WebWash.Domain.dll
+D:\PROJETO_LAVANDERIA\WebWash\WebWash.Infrastructure\bin\Debug\net8.0\WebWash.Domain.pdb
+D:\PROJETO_LAVANDERIA\WebWash\WebWash.Infrastructure\obj\Debug\net8.0\WebWash.Infrastructure.csproj.AssemblyReference.cache
+D:\PROJETO_LAVANDERIA\WebWash\WebWash.Infrastructure\obj\Debug\net8.0\WebWash.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETO_LAVANDERIA\WebWash\WebWash.Infrastructure\obj\Debug\net8.0\WebWash.Infrastructure.AssemblyInfoInputs.cache
+D:\PROJETO_LAVANDERIA\WebWash\WebWash.Infrastructure\obj\Debug\net8.0\WebWash.Infrastructure.AssemblyInfo.cs
+D:\PROJETO_LAVANDERIA\WebWash\WebWash.Infrastructure\obj\Debug\net8.0\WebWash.Infrastructure.csproj.CoreCompileInputs.cache
+D:\PROJETO_LAVANDERIA\WebWash\WebWash.Infrastructure\obj\Debug\net8.0\WebWash.Infrastructure.sourcelink.json
+D:\PROJETO_LAVANDERIA\WebWash\WebWash.Infrastructure\obj\Debug\net8.0\WebWash..D1339F1F.Up2Date
+D:\PROJETO_LAVANDERIA\WebWash\WebWash.Infrastructure\obj\Debug\net8.0\WebWash.Infrastructure.dll
+D:\PROJETO_LAVANDERIA\WebWash\WebWash.Infrastructure\obj\Debug\net8.0\refint\WebWash.Infrastructure.dll
+D:\PROJETO_LAVANDERIA\WebWash\WebWash.Infrastructure\obj\Debug\net8.0\WebWash.Infrastructure.pdb
+D:\PROJETO_LAVANDERIA\WebWash\WebWash.Infrastructure\obj\Debug\net8.0\ref\WebWash.Infrastructure.dll

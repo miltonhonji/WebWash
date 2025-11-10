@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WebWash.Infrastructure/1.0.0": {
+        "dependencies": {
+          "WebWash.Domain": "1.0.0"
+        },
+        "runtime": {
+          "WebWash.Infrastructure.dll": {}
+        }
+      },
+      "WebWash.Domain/1.0.0": {
+        "runtime": {
+          "WebWash.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebWash.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebWash.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
