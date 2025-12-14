@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebWash.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2210feb56b3fccdab74e05ab000b61f09f480ef9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebWash.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebWash.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

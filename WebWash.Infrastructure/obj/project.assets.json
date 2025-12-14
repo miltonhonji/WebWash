@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Infrastructure\\WebWash.Infrastructure.csproj",
+      "projectUniqueName": "C:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Infrastructure\\WebWash.Infrastructure.csproj",
       "projectName": "WebWash.Infrastructure",
-      "projectPath": "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Infrastructure\\WebWash.Infrastructure.csproj",
+      "projectPath": "C:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Infrastructure\\WebWash.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\facto\\.nuget\\packages\\",
-      "outputPath": "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Infrastructure\\obj\\",
+      "outputPath": "C:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,8 +57,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Domain\\WebWash.Domain.csproj": {
-              "projectPath": "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Domain\\WebWash.Domain.csproj"
+            "C:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Domain\\WebWash.Domain.csproj": {
+              "projectPath": "C:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Domain\\WebWash.Domain.csproj"
             }
           }
         }

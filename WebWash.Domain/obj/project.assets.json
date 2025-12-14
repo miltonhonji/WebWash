@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Domain\\WebWash.Domain.csproj",
+      "projectUniqueName": "C:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Domain\\WebWash.Domain.csproj",
       "projectName": "WebWash.Domain",
-      "projectPath": "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Domain\\WebWash.Domain.csproj",
+      "projectPath": "C:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Domain\\WebWash.Domain.csproj",
       "packagesPath": "C:\\Users\\facto\\.nuget\\packages\\",
-      "outputPath": "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Domain\\obj\\",
+      "outputPath": "C:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

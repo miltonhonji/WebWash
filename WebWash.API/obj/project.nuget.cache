@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8O0tjmrkJm4=",
+  "dgSpecHash": "sxIeCLUotv8=",
   "success": true,
-  "projectFilePath": "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.API\\WebWash.API.csproj",
+  "projectFilePath": "C:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.API\\WebWash.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\facto\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.6\\microsoft.aspnetcore.openapi.8.0.6.nupkg.sha512",
     "C:\\Users\\facto\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

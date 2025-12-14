@@ -10,3 +10,14 @@ D:\PROJETO_LAVANDERIA\WebWash\WebWash.Domain\obj\Debug\net8.0\WebWash.Domain.dll
 D:\PROJETO_LAVANDERIA\WebWash\WebWash.Domain\obj\Debug\net8.0\refint\WebWash.Domain.dll
 D:\PROJETO_LAVANDERIA\WebWash\WebWash.Domain\obj\Debug\net8.0\WebWash.Domain.pdb
 D:\PROJETO_LAVANDERIA\WebWash\WebWash.Domain\obj\Debug\net8.0\ref\WebWash.Domain.dll
+C:\PROJETO_LAVANDERIA\WebWash\WebWash.Domain\bin\Debug\net8.0\WebWash.Domain.deps.json
+C:\PROJETO_LAVANDERIA\WebWash\WebWash.Domain\bin\Debug\net8.0\WebWash.Domain.dll
+C:\PROJETO_LAVANDERIA\WebWash\WebWash.Domain\bin\Debug\net8.0\WebWash.Domain.pdb
+C:\PROJETO_LAVANDERIA\WebWash\WebWash.Domain\obj\Debug\net8.0\WebWash.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETO_LAVANDERIA\WebWash\WebWash.Domain\obj\Debug\net8.0\WebWash.Domain.AssemblyInfoInputs.cache
+C:\PROJETO_LAVANDERIA\WebWash\WebWash.Domain\obj\Debug\net8.0\WebWash.Domain.AssemblyInfo.cs
+C:\PROJETO_LAVANDERIA\WebWash\WebWash.Domain\obj\Debug\net8.0\WebWash.Domain.csproj.CoreCompileInputs.cache
+C:\PROJETO_LAVANDERIA\WebWash\WebWash.Domain\obj\Debug\net8.0\WebWash.Domain.dll
+C:\PROJETO_LAVANDERIA\WebWash\WebWash.Domain\obj\Debug\net8.0\refint\WebWash.Domain.dll
+C:\PROJETO_LAVANDERIA\WebWash\WebWash.Domain\obj\Debug\net8.0\WebWash.Domain.pdb
+C:\PROJETO_LAVANDERIA\WebWash\WebWash.Domain\obj\Debug\net8.0\ref\WebWash.Domain.dll
