@@ -495,21 +495,17 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\facto\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\facto\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.API\\WebWash.API.csproj",
+      "projectUniqueName": "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.API\\WebWash.API.csproj",
       "projectName": "WebWash.API",
-      "projectPath": "C:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.API\\WebWash.API.csproj",
+      "projectPath": "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.API\\WebWash.API.csproj",
       "packagesPath": "C:\\Users\\facto\\.nuget\\packages\\",
-      "outputPath": "C:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.API\\obj\\",
+      "outputPath": "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.API\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\facto\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -525,11 +521,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Domain\\WebWash.Domain.csproj": {
-              "projectPath": "C:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Domain\\WebWash.Domain.csproj"
+            "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Domain\\WebWash.Domain.csproj": {
+              "projectPath": "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Domain\\WebWash.Domain.csproj"
             },
-            "C:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Infrastructure\\WebWash.Infrastructure.csproj": {
-              "projectPath": "C:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Infrastructure\\WebWash.Infrastructure.csproj"
+            "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Infrastructure\\WebWash.Infrastructure.csproj": {
+              "projectPath": "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Infrastructure\\WebWash.Infrastructure.csproj"
             }
           }
         }
@@ -577,8 +573,16 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+    }
+  ]
 }
