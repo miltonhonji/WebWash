@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.API\\WebWash.API.csproj": {}
+    "D:\\WebWash\\WebWash.API\\WebWash.API.csproj": {}
   },
   "projects": {
-    "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.API\\WebWash.API.csproj": {
+    "D:\\WebWash\\WebWash.API\\WebWash.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.API\\WebWash.API.csproj",
+        "projectUniqueName": "D:\\WebWash\\WebWash.API\\WebWash.API.csproj",
         "projectName": "WebWash.API",
-        "projectPath": "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.API\\WebWash.API.csproj",
+        "projectPath": "D:\\WebWash\\WebWash.API\\WebWash.API.csproj",
         "packagesPath": "C:\\Users\\facto\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.API\\obj\\",
+        "outputPath": "D:\\WebWash\\WebWash.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\facto\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Domain\\WebWash.Domain.csproj": {
-                "projectPath": "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Domain\\WebWash.Domain.csproj"
+              "D:\\WebWash\\WebWash.Domain\\WebWash.Domain.csproj": {
+                "projectPath": "D:\\WebWash\\WebWash.Domain\\WebWash.Domain.csproj"
               },
-              "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Infrastructure\\WebWash.Infrastructure.csproj": {
-                "projectPath": "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Infrastructure\\WebWash.Infrastructure.csproj"
+              "D:\\WebWash\\WebWash.Infrastructure\\WebWash.Infrastructure.csproj": {
+                "projectPath": "D:\\WebWash\\WebWash.Infrastructure\\WebWash.Infrastructure.csproj"
               }
             }
           }
@@ -55,6 +55,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.*, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -84,14 +88,14 @@
         }
       }
     },
-    "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Domain\\WebWash.Domain.csproj": {
+    "D:\\WebWash\\WebWash.Domain\\WebWash.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Domain\\WebWash.Domain.csproj",
+        "projectUniqueName": "D:\\WebWash\\WebWash.Domain\\WebWash.Domain.csproj",
         "projectName": "WebWash.Domain",
-        "projectPath": "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Domain\\WebWash.Domain.csproj",
+        "projectPath": "D:\\WebWash\\WebWash.Domain\\WebWash.Domain.csproj",
         "packagesPath": "C:\\Users\\facto\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Domain\\obj\\",
+        "outputPath": "D:\\WebWash\\WebWash.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\facto\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -144,14 +148,14 @@
         }
       }
     },
-    "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Infrastructure\\WebWash.Infrastructure.csproj": {
+    "D:\\WebWash\\WebWash.Infrastructure\\WebWash.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Infrastructure\\WebWash.Infrastructure.csproj",
+        "projectUniqueName": "D:\\WebWash\\WebWash.Infrastructure\\WebWash.Infrastructure.csproj",
         "projectName": "WebWash.Infrastructure",
-        "projectPath": "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Infrastructure\\WebWash.Infrastructure.csproj",
+        "projectPath": "D:\\WebWash\\WebWash.Infrastructure\\WebWash.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\facto\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Infrastructure\\obj\\",
+        "outputPath": "D:\\WebWash\\WebWash.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\facto\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -168,8 +172,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Domain\\WebWash.Domain.csproj": {
-                "projectPath": "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Domain\\WebWash.Domain.csproj"
+              "D:\\WebWash\\WebWash.Domain\\WebWash.Domain.csproj": {
+                "projectPath": "D:\\WebWash\\WebWash.Domain\\WebWash.Domain.csproj"
               }
             }
           }
@@ -188,6 +192,22 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

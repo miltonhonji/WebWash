@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Domain\\WebWash.Domain.csproj",
+      "projectUniqueName": "D:\\WebWash\\WebWash.Domain\\WebWash.Domain.csproj",
       "projectName": "WebWash.Domain",
-      "projectPath": "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Domain\\WebWash.Domain.csproj",
+      "projectPath": "D:\\WebWash\\WebWash.Domain\\WebWash.Domain.csproj",
       "packagesPath": "C:\\Users\\facto\\.nuget\\packages\\",
-      "outputPath": "D:\\PROJETO_LAVANDERIA\\WebWash\\WebWash.Domain\\obj\\",
+      "outputPath": "D:\\WebWash\\WebWash.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\facto\\AppData\\Roaming\\NuGet\\NuGet.Config",

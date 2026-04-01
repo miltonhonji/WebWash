@@ -1,10 +1,18 @@
-﻿namespace WebWash.Domain;
+﻿using System;
+using System.ComponentModel;
+
+namespace WebWash.Domain;
 
 public enum EOrderStatus
 {
-    Pendente = 1,
-    Lavando = 2,
-    Pronto = 3,
-    Entregue = 4,
-    Cancelado = 5
+    [Description("Pendente")]
+    Pending = 1,
+    [Description("Lavando")]
+    Washing = 2,
+    [Description("Pronto")]
+    Ready = 3,      
+    [Description("Entregue")]
+    Delivered = 4,
+    [Description("Cancelado")]
+    Canceled = 5
 }
